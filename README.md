@@ -17,9 +17,8 @@ _______________________________________________________________________________
 ### **SOBRE**
 _______________________________________________________________________________
 
+ O Desenvolvimento de uma aplicação tipo DESKTOP simples (TIPO CRUD), Que tem como objetivo criar um sistema de avaliação PACER, capaz de realizar o cadastro dos alunos da FATEC de São José dos Campos em grupos de projetos integrados do tipo API, em que os alunos possam avaliar todos os membros de sua equipe ao final de cada SPRINT, e que o professor possa monitorar os grupos e gerar um relatório contendo a nota média de todos os alunos para todas as SPRINTS, sendo possível realocar ou excluir membros de cada grupo e incluir, alterar e desativar critérios de avaliação. O sistema deve permitir o cadastro de um calendário de entregas, e deve permitir as avaliações na janela de tempo definida.
  
- 
-
 
 ### **EQUIPE**
 _______________________________________________________________________________
@@ -38,19 +37,57 @@ _______________________________________________________________________________
 ### **PRODUCT BACKLOG**
 _______________________________________________________________________________
 
-
-
-
+| **PRODUCT BACKLOG**| **PRIORIDADE** | **STATUS** 
+|-------|--------|-------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 
 
 ### **_USER STORIES_**
 _______________________________________________________________________________
 
+| **USER STORIES**| **PRIORIDADE** |
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+
 
 
 ### **CRONOGRAMA DE ENTREGAS**
 _______________________________________________________________________________
+
+
+
+
+| **SPRINT**| **INICIO** | **ENTREGA** | **STATUS**|
+| ----- | ----- | ------ | ------ |
+| 1ª sprint |   |   |   |
+| 2ª sprint |   |   |   |
+| 3ª sprint |   |   |   |
+| 4ª sprint |   |   |   |
+| Feira de Soluções |   |   |   |
 
 
 
