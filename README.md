@@ -3,8 +3,8 @@
 <html>
 <body>
 
+![image](https://github.com/user-attachments/assets/d934addd-3b30-4a1c-b168-fb32dc906470)
 
-![Image](https://github.com/user-attachments/assets/cc2dcce5-1f06-4440-89fb-e903322f0f22)
 
 
 
@@ -83,11 +83,11 @@ _______________________________________________________________________________
 
 | **SPRINT**| **INICIO** | **ENTREGA** | **STATUS**|
 | ----- | ----- | ------ | ------ |
-| 1ª sprint |   |   |   |
-| 2ª sprint |   |   |   |
-| 3ª sprint |   |   |   |
-| 4ª sprint |   |   |   |
-| Feira de Soluções |   |   |   |
+| 1ª sprint | 09/09 | 29/09 |  ❌ |
+| 2ª sprint | 30/09 | 20/10 |  ❌ |
+| 3ª sprint | 21/10 | 10/11 |  ❌ |
+| 4ª sprint | 11/11 | 01/12 |  ❌ |
+| Feira de Soluções | 12/12 | 12/12 |  ❌ |
 
 
 
@@ -104,7 +104,9 @@ _______________________________________________________________________________
 
 
 
-![Image](https://github.com/user-attachments/assets/67aa8472-ac03-496d-95f6-1c5645a7c5a8)
+![image](https://github.com/user-attachments/assets/2e409dba-39cd-42aa-8825-69bf566dc277)
+
+
 
 
 </body>
