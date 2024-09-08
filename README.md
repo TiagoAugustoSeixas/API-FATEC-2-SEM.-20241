@@ -8,17 +8,29 @@
 
 
 
-### **ÍNDICE**
+## **ÍNDICE**
 _______________________________________________________________________________
 
-# Table of Contents
-1. [SOBRE](#SOBRE)
-2. [EQUIPE](#EQUIPE)
-3. [PRODUCT BACKLOG](#BACKLOG)
-4. [USER STORIES](#STORIES)
-5. [CRONOGRAMA DE ENTREGAS](#CRONOGRAMA)
-6. [DOCUMENTAÇÕES](#DOCS)
-7. [TECNOLOGIAS UTILIZADAS](#TECNOLOGIAS)
+| 1. [SOBRE](#SOBRE) |
+|-------|
+
+|2. [EQUIPE](#EQUIPE) |
+|-------|
+
+|3. [PRODUCT BACKLOG](#BACKLOG) |
+|-------|
+
+|4. [USER STORIES](#STORIES) |
+|-------|
+
+|5. [CRONOGRAMA DE ENTREGAS](#CRONOGRAMA) |
+|-------|
+
+|6. [DOCUMENTAÇÕES](#DOCS) |
+|-------|
+
+|7. [TECNOLOGIAS UTILIZADAS](#TECNOLOGIAS) |
+|-------|
 
 ##  <a name="SOBRE"></a> **SOBRE**
 _______________________________________________________________________________
