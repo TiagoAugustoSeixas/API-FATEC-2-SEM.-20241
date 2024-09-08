@@ -20,13 +20,13 @@ _______________________________________________________________________________
 6. [DOCUMENTAÇÕES](#DOCS)
 7. [TECNOLOGIAS UTILIZADAS](#TECNOLOGIAS)
 
-## **SOBRE** <a name="SOBRE"></a>
+##  <a name="SOBRE"></a> **SOBRE**
 _______________________________________________________________________________
 
  O Desenvolvimento de uma aplicação tipo DESKTOP simples (TIPO CRUD), Que tem como objetivo criar um sistema de avaliação PACER, capaz de realizar o cadastro dos alunos da FATEC de São José dos Campos em grupos de projetos integrados do tipo API, em que os alunos possam avaliar todos os membros de sua equipe ao final de cada SPRINT, e que o professor possa monitorar os grupos e gerar um relatório contendo a nota média de todos os alunos para todas as SPRINTS, sendo possível realocar ou excluir membros de cada grupo e incluir, alterar e desativar critérios de avaliação. O sistema deve permitir o cadastro de um calendário de entregas, e deve permitir as avaliações na janela de tempo definida.
  
 
-## **EQUIPE** <a name="EQUIPE"></a>
+## <a name="EQUIPE"></a> **EQUIPE** 
 _______________________________________________________________________________
 
 | **INTEGRANTES**| **FUNÇÃO** | **NETWORKS** |**IDS**|
@@ -40,7 +40,7 @@ _______________________________________________________________________________
 |  TIAGO SANTOS | ![Static Badge](https://img.shields.io/badge/SCRUM_MASTER-black) | <a href="https://github.com/tiago17santos" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|![Image](https://github.com/user-attachments/assets/e39515e8-763e-4a17-befd-04cff4d20c9c)|
 |  VICTOR |  ![Static Badge](https://img.shields.io/badge/DEV-blue) | <a href=" " target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|  |
 
-## **PRODUCT BACKLOG** <a name="BACKLOG"></a>
+## <a name="BACKLOG"></a> **PRODUCT BACKLOG** 
 _______________________________________________________________________________
 
 | **PRODUCT BACKLOG**| **PRIORIDADE** | **STATUS** 
@@ -66,7 +66,7 @@ _______________________________________________________________________________
 
 
 
-## **_USER STORIES_** <a name="STORIES"></a>
+## <a name="STORIES"></a> **_USER STORIES_** 
 _______________________________________________________________________________
 
 | **USER STORIES**| **PRIORIDADE** |
@@ -92,7 +92,7 @@ _______________________________________________________________________________
 
 
 
-##  **CRONOGRAMA DE ENTREGAS** <a name="CRONOGRAMA"></a>
+## <a name="CRONOGRAMA"></a> **CRONOGRAMA DE ENTREGAS** 
 _______________________________________________________________________________
 
 
@@ -110,12 +110,12 @@ _______________________________________________________________________________
 
 
 
-##  **DOCUMENTAÇÃO** <a name="DOCS"></a>
+## <a name="DOCS"></a>  **DOCUMENTAÇÃO** 
 _______________________________________________________________________________
 
 
 
-##  **TECNOLOGIAS UTILIZADAS** <a name="TECNOLOGIAS"></a>
+##  <a name="TECNOLOGIAS"></a>  **TECNOLOGIAS UTILIZADAS**
 _______________________________________________________________________________
 
 
